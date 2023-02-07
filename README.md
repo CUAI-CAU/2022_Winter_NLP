@@ -26,16 +26,20 @@
 ### :point_right: Framework
 <hr/>
 * Level 1
+
 ![1단계](https://user-images.githubusercontent.com/100768412/217162955-47f8f98c-3ee4-4269-8e39-b05ad947cf50.PNG)
+
 * Level 2
+
 ![2단계](https://user-images.githubusercontent.com/100768412/217162963-4b6775a9-b990-4128-a56a-17ee68455817.PNG)
+
 * Level 3
+
 ![3단계](https://user-images.githubusercontent.com/100768412/217162985-c70da71a-3da3-4499-a2fd-735697300ef6.PNG)
 
 ### :point_right: Result
-| ![KakaoTalk_20230207_143120850](https://user-images.githubusercontent.com/100768412/217163256-a0bd7857-ff1e-4abd-9a76-b5f3756aa3d5.png) |
- ![KakaoTalk_20230207_143217941](https://user-images.githubusercontent.com/100768412/217163262-742311f5-0165-45b9-b7db-f166e74b25d9.png) |
-|---|---|
+![KakaoTalk_20230207_143120850](https://user-images.githubusercontent.com/100768412/217163256-a0bd7857-ff1e-4abd-9a76-b5f3756aa3d5.png)
+ ![KakaoTalk_20230207_143217941](https://user-images.githubusercontent.com/100768412/217163262-742311f5-0165-45b9-b7db-f166e74b25d9.png)
 
 ### :point_right: Meeting Log
 <hr/>
