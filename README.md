@@ -1,7 +1,7 @@
 # 2022_Winter_NLP
 ## 2022 CUAI Winter Conference NLP Team Repository
 
-### :smile: 팀원
+### 👨💻 팀원
 * 김민기 (경영학부)
 * 김민주 (경영학부)
 * 김지민 (응용통계학과)
