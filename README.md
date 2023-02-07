@@ -19,6 +19,14 @@
 
 -> BDU 모델 : 3단계에서 사용한 BDU라는 MLM모델은 KoElectra를 활용하여 개발됨. 이를 통해 브로카 실어증 환자가 문법형태소가 생략된 발화시 완전한 문장을 출력하여 실문법증 치료에 도움이 되도록 함.
 
+### :point_right: Framework
+* Level 1
+![1단계](https://user-images.githubusercontent.com/100768412/217162955-47f8f98c-3ee4-4269-8e39-b05ad947cf50.PNG)
+* Level 2
+![2단계](https://user-images.githubusercontent.com/100768412/217162963-4b6775a9-b990-4128-a56a-17ee68455817.PNG)
+* Level 3
+![3단계](https://user-images.githubusercontent.com/100768412/217162985-c70da71a-3da3-4499-a2fd-735697300ef6.PNG)
+
 ### :point_right: Our goal
 <hr/>
 브로카 실어증 환자들이 보호자 없이도 꾸준한 언어치료를 할 수 있도록 도움을 제공한다.
