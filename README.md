@@ -54,6 +54,7 @@
 ![3단계](https://user-images.githubusercontent.com/100768412/217162985-c70da71a-3da3-4499-a2fd-735697300ef6.PNG)
 
 ### :point_right: example of Result
+<hr/>
+
 ![KakaoTalk_20230207_143120850](https://user-images.githubusercontent.com/100768412/217163256-a0bd7857-ff1e-4abd-9a76-b5f3756aa3d5.png)
 
-<hr/>
