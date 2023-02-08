@@ -7,7 +7,7 @@
 * 김지민 (응용통계학과)
 * 이혜연 (응용통계학과)
 
-### :pushpin: opic
+### :pushpin: Topic
 <hr/>
 브로카 실어증 치료를 위한 서비스 구현 (Implementation of services to treat Broca aphasia)
 
